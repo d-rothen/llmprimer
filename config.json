@@ -1,0 +1,70 @@
+{
+  "python": {
+    "extensions": [
+      ".py",
+      ".pyi",
+      ".toml",
+      ".lock",
+      ".cfg",
+      ".ini"
+    ]
+  },
+  "javascript-typescript": {
+    "extensions": [
+      ".js",
+      ".jsx",
+      ".ts",
+      ".tsx",
+      ".json",
+      ".html",
+      ".css",
+      ".scss",
+      ".md"
+    ]
+  },
+  "swift": {
+    "extensions": [
+      ".swift",
+      ".storyboard",
+      ".xib"
+    ]
+  },
+  "c-cpp": {
+    "extensions": [
+      ".c",
+      ".cpp",
+      ".h",
+      ".hpp",
+      ".inl",
+      "Makefile"
+    ]
+  },
+  "rust": {
+    "extensions": [
+      ".rs",
+      ".toml"
+    ]
+  },
+  "go": {
+    "extensions": [
+      ".go",
+      ".mod",
+      ".sum"
+    ]
+  },
+  "java": {
+    "extensions": [
+      ".java",
+      ".gradle",
+      ".xml",
+      ".properties"
+    ]
+  },
+  "ruby": {
+    "extensions": [
+      ".rb",
+      "Gemfile",
+      ".yml"
+    ]
+  }
+}
