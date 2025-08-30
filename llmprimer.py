@@ -7,7 +7,7 @@ import pathspec
 from pathlib import Path
 
 # --- Configuration ---
-CONTEXT_DIR_NAME = "LLMContext"
+CONTEXT_DIR_NAME = ".LLMContext"
 DUMP_FILE_NAME = "repository_dump.txt"
 LOCAL_CONFIG_NAME = "config.json"
 GLOBAL_CONFIG_NAME = "config.json"
